@@ -3,7 +3,7 @@
 ## I'm a Mobile Developer
 
 - 📍 Living in Ho Chi Minh City, Viet Nam  
-- 📱 Over 3 years of experience in mobile app development with Flutter and native platforms (Kotlin, Swift)  
+- 📱 Many years of experience in mobile app development with Flutter and native platforms (Kotlin, Swift)  
 - 🚀 Passionate about building high-quality apps from scratch and delivering impactful user experiences  
 - 📧 Contact me at [tthoai.work@gmail.com](mailto:tthoai.work@gmail.com)  
 
