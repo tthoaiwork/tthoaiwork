@@ -20,8 +20,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 
 **Backend & APIs**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=apachespark&logoColor=white)
 
 **Databases & Cloud**  
