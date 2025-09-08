@@ -7,7 +7,6 @@
 - 🚀 Passionate about building high-quality apps from scratch and delivering impactful user experiences  
 - 📧 Contact me at [tthoai.work@gmail.com](mailto:tthoai.work@gmail.com)  
 
-![Followers](https://img.shields.io/github/followers/iaohtdev?style=social)
 
 ---
 
