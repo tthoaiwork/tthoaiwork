@@ -40,6 +40,9 @@
 
 ### 💼 Experience
 
+**Mobile Developer** — *Concung.com* (Jul 2024 - Present)  
+- Led the development of an e-commerce mobile application, including product catalog, shopping cart, and payment integration.
+
 **Mobile Developer** — *Rian Soft Company* (Jul 2023 - Mar 2024)  
 - Maintained & enhanced existing apps  
 - Developed modular Flutter code  
